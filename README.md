@@ -1,5 +1,5 @@
-**Simple Banking Database-**
-**Beginner– SQL Portfolio Project**
+# Simple Banking Database-
+# Beginner– SQL Portfolio Project
 
 This project demonstrates my ability to design relational databases, write SQL queries, and apply analytical thinking to real-world business scenarios. 
 It simulates the operations of a simplified banking system and highlights foundational SQL skills relevant to Data Analyst and Financial Analyst roles.
@@ -123,7 +123,7 @@ Displayed unique values (DISTINCT)
 Used pagination with OFFSET + LIMIT
 
 # Key Features Demonstrated
-# 1. Data Filtering
+### 1. Data Filtering
 
 Multi-condition filtering
 
@@ -133,7 +133,7 @@ Pattern matching (LIKE)
 
 Set filters (IN)
 
-# 2. Data Analysis
+### 2. Data Analysis
 
 Aggregations such as COUNT and MAX
 
@@ -143,7 +143,7 @@ Identifying unique entries
 
 Paginating large results
 
-# 3. Business Logic Implementation
+### 3. Business Logic Implementation
 
 High-value accounts (e.g., balance > 100,000)
 
